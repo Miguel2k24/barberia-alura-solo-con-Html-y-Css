@@ -1,0 +1,71 @@
+
+body{
+    
+    background: rgb(255, 255, 255);
+}
+
+.tituloPrincipal{
+    padding: 10px;
+    border-bottom: 5px solid rgba(243, 56, 9, 0.582);
+    display: inline-block;
+    text-shadow: 0px 10px 50px rgba(243, 56, 9, 0.582);
+    box-shadow: 0px 0px 20px 4px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #cccccc ;
+    padding: 10px;
+}
+
+.tituloCentral{
+    font-size: 25px;
+    text-align: center;
+    border-bottom: 5px solid rgba(243, 56, 9, 0.582);
+}
+
+p{
+    text-align: center;
+}
+
+.parrafo2{
+    font-size: 20px;
+}
+
+.nem{
+    color: rgba(243, 56, 9, 0.897);
+}
+
+.diferenciales{
+    background: rgb(255, 255, 255);
+    padding: 30px;
+}
+
+.tituloDiferencial{
+    border-bottom: 5px solid rgba(243, 56, 9, 0.582);
+}
+
+h3{
+    font-size: 25px;
+    text-align: center;
+}
+
+.lista_desordenada{
+    
+    text-shadow: 0px -1px 4px rgba(20, 17, 17, 0.295);
+    box-shadow: 3px 1px 15px 0px;
+    font-style: italic;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+
+.imagenDiferenciales{
+    width: 50%;
+    
+}
